@@ -2,18 +2,18 @@
 <h1 align="center">Hi 👋, I'm SAYAK DUTTA</h1>
 
  
-<h3 align="center"> A Passionate Software Engineer
+<h2 align="center"> A Passionate Software Engineer </h2>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayakdutt&label=Profile%20views&color=0e75b6&style=flat" alt="sayakdutt" /> </p>
-
+<br>
 - 🌱 I’m currently learning **Backend Development,DevOps**
-
+<br>
 - 👯 I’m looking to collaborate any **Open-Source Contribution**
-
+<br>
 - 💬 Ask me about ** Python, Web Scraping, Automation, Django , Shell Scripting, Linux , git, Docker, DevOps, Machine Learning**
-
+<br>
 - ⚡ Fun fact **We automate stuffs**
-
+<br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/sayak-dutta-b5b971240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sayak-dutta-b5b971240" height="30" width="40" /></a>
