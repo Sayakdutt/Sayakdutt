@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate any Open-Source Contribution
 
-- 💬 Ask me about ** Python, Web Scraping, Automation, Django , Shell Scripting, Linux , git, Docker, DevOps, Machine Learning**
+- 💬 Ask me about **Python, Web Scraping, Automation, Django , Shell Scripting, Linux , git, Docker, DevOps, Machine Learning**
 
 - ⚡ Fun fact We automate stuffs
 
