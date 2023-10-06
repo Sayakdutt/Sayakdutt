@@ -6,7 +6,8 @@
 
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-🌱 I’m currently learning Full Stack Development, and Automation.<br>👯 I’m looking to collaborate on any creative projects.<br>💬Ask me about Python, Web Scraping, Automation, Django, Shell Scripting, Linux, and git.<br>⚡I can automate stuff.<br>
+👨🏻‍🎓 Currently persuing my B.Tech in CSE(Data Science).<br>
+🌱 I’m currently learning Full Stack Development, and Automation.<br>👯 I’m looking to collaborate on any Creative Projects.<br>💬Ask me about Python, Javascript, ReactJs, Web Scraping, Automation, Django, Shell Scripting, Linux, and git.<br>⚡I can automate stuff.<br>
 
 
 ## 🌐 Socials:
